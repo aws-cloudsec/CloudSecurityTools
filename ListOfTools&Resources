@@ -1,0 +1,56 @@
+1. AWS URL Signer: POC tool to create signed AWS API GET requests to bypass Guard Duty alerting of off-instance credential use via SSRF https://github.com/stephenbradshaw/aws_url_signer
+2. Product EOL- End of Life Tracker: https://endoflife.date/
+3. Repo for other AWS CloudSec tools: https://list.latio.tech/
+4. Arsenal of AWS security tools: https://github.com/toniblyx/my-arsenal-of-aws-security-tools
+5. Cloud Security - Attacks Tools List: https://github.com/CyberSecurityUP/Cloud-Security-Attacks
+6. AwesomeRed Team Operations - https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
+7. RedTeam CVE search https://cvexploits.io/
+8. AWS Skillsbuilder https://explore.skillbuilder.aws/learn/signin
+9. PenTest1: https://github.com/tjnull/TJ-JPT
+10. PenTest2: https://github.com/pop3ret/AWSome-Pentesting/blob/main/AWSome-Pentesting-Cheatsheet.md
+10. Password cracking tool: https://www.bleepingcomputer.com/news/security/top-5-password-cracking-techniques-used-by-hackers/
+11. Password cracking tool: https://github.com/n0kovo/awesome-password-cracking#readme
+13. Password cracking tool: John the Ripper - Supports hundreds of hash types across many applications and is available on multiple platforms. John the Ripper password cracker (openwall.com)
+14. Password cracking tool: Hashcat - Works with the CPU and GPU to provide a high-speed command-line password-cracking tool supporting many hash types.
+15. Password cracking tool: Ophcrack - A tool based around rainbow tables focused on LM and NTLM passwords used in Windows environments.
+16. Free Cybersecurity Services and Tools: https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools
+17. SANS Tools List: https://www.sans.org/tools/?focus-area=penetration-testing-red-teaming
+18. RED TEAM TOOL: Atomic Red Team by Canary https://github.com/redcanaryco/atomic-red-team
+19. RED TEAM TOOL: Leonidas by F-Secure (Nick Jones): https://github.com/WithSecureLabs/leonidas
+20. RED TEAM TOOL: Pacu by Rhino Security Labs: https://github.com/RhinoSecurityLabs/pacu
+21: RED TEAM TOOL: CloudGoat by Rhino Security Labs https://github.com/RhinoSecurityLabs/cloudgoat
+22. RED TEAM TOOL: DataDog/stratus-red-team: https://github.com/DataDog/stratus-red-team
+23. RED TEAM TOOL: Enumerate AWS Account ID: https://hackingthe.cloud/aws/enumeration/account_id_from_s3_bucket/
+24. RED TEAM TOOL: S3 account search
+25. RED TEAM TOOL. Building a RedTeam https://maturitymodel.security.aws.dev/en/4.-optimized/red-team/ 
+26. Flightism: https://github.com/alphasoc/flightsim - flightsim is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. The tool performs tests to simulate DNS tunneling, DGA traffic, requests to known active C2 destinations, and other suspicious traffic patterns.
+27. Suricata: https://suricata.io/ - Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
+28. Amazon GuardDuty Tester by AWS
+29. ED TEAM TOOL: Amazon GuardDuty Tester- https://github.com/awslabs/amazon-guardduty-tester Amazon GuardDuty Tester is helpful to trigger GuardDuty findings. However, it is tightly coupled with GuardDuty and is a product-specific tool, even within the AWS ecosystem. If GuardDuty doesn't detect an attack technique, you won't find it in here.
+30. ED TEAM TOOL: AWS CloudSaga (awslabs) https://github.com/awslabs/aws-cloudsaga AWS CloudSaga has a few simulation scenarios (five at the time of writing). Some of them are more focused around identifying vulnerable resources in your account (such as imds_reveal listing your EC2 instances without IMDSv2 enforced), while others are designed to simulate attacker behavior. The attacker behavior implemented by AWS Cloud Saga emulates several stages of the attack lifecycle, while Stratus Red Team purposely attempts to stay as granular as possible (see: Philosophy). As much as possible, Stratus Red Team techniques also reference real-world incidents or breaches.
+31. Pacu Open Source AWS Exploitation Framework (Open Source by Rhino Security) https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/
+32. Stratus Red Team (Open Source, by Datadog) https://github.com/DataDog/stratus-red-team
+33. Guardicore Infection Monkey (Open Source, integrated with AWS Security Hub). https://www.akamai.com/infectionmonkey
+34. F-Secure Leonidas https://github.com/WithSecureLabs/leonidas
+35. XM Cyber https://xmcyber.com/
+36. AttackIQ https://www.attackiq.com/
+37. Randori https://www.randori.com/
+38. Prelude (based on open source CALDERA from MITRE) https://www.preludesecurity.com/?prelude.org//Query
+39. Scythe https://scythe.io/
+40. Safebreach https://www.safebreach.com/
+41. CyCognito https://www.cycognito.com/
+42. Cymulate https://cymulate.com/
+43. https://github.com/WithSecureLabs/leonidas Leonidas 
+44. https://github.com/BishopFox/cloudfoxable
+45. gns3 - network emulation
+46. https://dynamips.store/
+47. vulnhub.com
+48. Damn Vulnerable: https://github.com/digininja/DVWA
+49. https://jwljoy.medium.com/damn-vulnerable-applications-c4e286832147
+50. tenable/awesome-llm-cybersecurity-tools - A curated list of cybersecurity tools that leverage LLMs, by Tenable’s Olivia Fraser and Blake Kizer, across reverse engineering, network analysis, cloud security, and PoCs.
+51. tenable/EscalateGPT https://github.com/tenable/EscalateGPT An AI-powered tool for discovering privilege escalation opportunities in AWS IAM configurations, by Tenable. “In our testing against real-world AWS environments, we found that GPT4 managed to identify complex scenarios of privilege escalation based on non-trivial policies through multi-IAM accounts.”
+53. tenable/Burp-extension-for-GPT A Burp Suite extension that leverages OpenAI to analyze HTTP traffic and identify potential security concerns. “We tested some real-world scenarios and we found that GPT3.5 and GPT4 successfully identified XSS and misconfigured HTTP headers without requiring any additional fine-tuning.”
+
+
+- Maintained by AWS Cloud Security Weekly Newsletter (aws-cloudsec.com) 
+
