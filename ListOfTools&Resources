@@ -83,13 +83,49 @@ This is the repository containing Leonidas, a framework for executing attacker a
 https://github.com/WithSecureLabs/leonidas
 
 
-20. RED TEAM TOOL: Pacu by Rhino Security Labs: https://github.com/RhinoSecurityLabs/pacu
-21: RED TEAM TOOL: CloudGoat by Rhino Security Labs https://github.com/RhinoSecurityLabs/cloudgoat
-22. RED TEAM TOOL: DataDog/stratus-red-team: https://github.com/DataDog/stratus-red-team
-23. RED TEAM TOOL: Enumerate AWS Account ID: https://hackingthe.cloud/aws/enumeration/account_id_from_s3_bucket/
-24. RED TEAM TOOL: S3 account search
-25. RED TEAM TOOL. Building a RedTeam https://maturitymodel.security.aws.dev/en/4.-optimized/red-team/ 
-26. Flightism: https://github.com/alphasoc/flightsim - flightsim is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. The tool performs tests to simulate DNS tunneling, DGA traffic, requests to known active C2 destinations, and other suspicious traffic patterns.
+20. RED TEAM TOOL: Pacu by Rhino Security Labs
+Pacu is an open-source AWS exploitation framework, designed for offensive security testing against cloud environments. Created and maintained by Rhino Security Labs, Pacu allows penetration testers to exploit configuration flaws within an AWS account, using modules to easily expand its functionality.
+https://github.com/RhinoSecurityLabs/pacu/blob/master/README.md
+
+21: RED TEAM TOOL: CloudGoat by Rhino Security Labs
+CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool.
+https://github.com/RhinoSecurityLabs/cloudgoat
+
+22. RED TEAM TOOL: DataDog/stratus-red-team
+Stratus Red Team is "Atomic Red Team™" for the cloud, allowing to emulate offensive attack techniques in a granular and self-contained manner.
+https://github.com/DataDog/stratus-red-team
+
+23. RED TEAM TOOL: Hacking the Cloud:
+Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure. The goal is to share this knowledge with the security community to better defend cloud native technologies.
+https://hackingthe.cloud/
+Eg. Enumerate AWS Account ID: https://hackingthe.cloud/aws/enumeration/account_id_from_s3_bucket/
+
+24. aws-list-resources. 
+Uses the AWS Cloud Control API to list resources that are present in a given AWS account and region(s). Discovered resources are written to a JSON output file.
+https://github.com/welldone-cloud/aws-list-resources 
+
+25. https://maturitymodel.security.aws.dev/ by AWS. It has some great resourced for example: Building a Red Team (Attacker point of view) by AWS
+https://maturitymodel.security.aws.dev/en/4.-optimized/red-team/ 
+Other Attack Simulation tools included are:
+    - Amazon GuardDuty Tester (aws-samples)
+    - AWS CloudSaga (awslabs)
+    - Pacu Open Source AWS Exploitation Framework (Open Source by Rhino Security)
+    - Stratus Red Team (Open Source, by Datadog)
+    - Guardicore Infection Monkey (Open Source, integrated with AWS Security Hub).
+    - F-Secure Leonidas
+    - XM Cyber
+    - AttackIQ
+    - Randori
+    - Prelude (based on open source CALDERA from MITRE)
+    - Scythe
+    - Safebreach
+    - CyCognito
+    - Cymulate
+
+26. Flightism
+flightsim is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. The tool performs tests to simulate DNS tunneling, DGA traffic, requests to known active C2 destinations, and other suspicious traffic patterns.
+https://github.com/alphasoc/flightsim/blob/master/README.md
+
 27. Suricata: https://suricata.io/ - Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
 28. Amazon GuardDuty Tester by AWS
 29. RED TEAM TOOL: Amazon GuardDuty Tester- https://github.com/awslabs/amazon-guardduty-tester Amazon GuardDuty Tester is helpful to trigger GuardDuty findings. However, it is tightly coupled with GuardDuty and is a product-specific tool, even within the AWS ecosystem. If GuardDuty doesn't detect an attack technique, you won't find it in here.
@@ -120,7 +156,7 @@ https://github.com/WithSecureLabs/leonidas
 55. aws-summarize-account-activity: Analyzes CloudTrail data of a given AWS account and generates a summary of recently active IAM principals, API calls they made and regions that were used. The summary is written to a JSON output file and can optionally be visualized as PNG files. https://github.com/welldone-cloud/aws-summarize-account-activity
 56. iamlive. Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy.  https://github.com/iann0036/iamlive
 57. GuardDuty Runbook Generator. Create a runbook for all available GuardDuty finding types found on the GuardDuty docs website using the information documented for each finding. https://github.com/aquia-inc/aws-guardduty-runbook-generator
-58. aws-list-resources. Uses the AWS Cloud Control API to list resources that are present in a given AWS account and region(s). Discovered resources are written to a JSON output file.. https://github.com/welldone-cloud/aws-list-resources. 
+
 
 
 
