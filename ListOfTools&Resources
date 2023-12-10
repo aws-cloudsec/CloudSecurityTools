@@ -139,14 +139,9 @@ Create a runbook for all available GuardDuty finding types found on the GuardDut
 https://github.com/aquia-inc/aws-guardduty-runbook-generator/blob/main/README.md
 
 
-
-
-
-
 √ RED TEAM TOOL: AWS CloudSaga by AWS Labs
 AWS CloudSaga is for customers to test security controls and alerts within their Amazon Web Services (AWS) environment, using generated alerts based on security events seen by the AWS Customer Incident Response Team (CIRT).
 https://github.com/awslabs/aws-cloudsaga/blob/main/README.md
-
 
 
 √ Stratus Red Team (Open Source, by Datadog)
@@ -179,17 +174,52 @@ An attack surface management solution designed to uncover your external exposure
 https://www.randori.com/
 
 
-38. Prelude (based on open source CALDERA from MITRE) https://www.preludesecurity.com/?prelude.org//Query
-39. Scythe https://scythe.io/
-40. Safebreach https://www.safebreach.com/
-41. CyCognito https://www.cycognito.com/
-42. Cymulate https://cymulate.com/
-43. https://github.com/WithSecureLabs/leonidas Leonidas 
-44. https://github.com/BishopFox/cloudfoxable
-45. Network Emulation - https://www.gns3.com/ 
-46. DynamIPs Discover the Ultimate Convenience for Running Your Labs with a Comprehensive Solution.. https://dynamips.store/
-47. VulnHub: Provide materials that allows anyone to gain practical 'hands-on' experience in digital security, computer software & network administration. vulnhub.com
-48. Damn Vulnerable: https://github.com/digininja/DVWA
+√ Prelude (based on open source CALDERA from MITRE)
+Know with certainty if your defenses will protect you against the latest threats. Immediately.
+https://www.preludesecurity.com/?prelude.org//Query
+
+
+√ Scythe
+Know your real-time security posture by testing your teams and systems with SCYTHE – the adversary emulation platform that behaves just like hackers do in the real world.
+https://scythe.io/
+
+
+√ Safebreach 
+Breach and Attack Simulation (BAS) platform
+https://www.safebreach.com/
+
+√ CyCognito 
+Discover, test and prioritize all of your web assets and applications.
+https://www.cycognito.com/
+
+
+√ Cymulate 
+The Cymulate platform drives continuous threat exposure management programs and supports both the technical and business requirements of scoping, discovery, prioritization, validation, and mobilization.
+https://cymulate.com/
+
+
+
+√ CloudFoxable by BishopFox
+An intentionally vulnerable AWS environment created specifically to showcase CloudFox’s capabilities and help you find latent attack paths more effectively.
+https://github.com/BishopFox/cloudfoxable/blob/main/README.md
+
+
+√ GNS3
+Network Emulation-  build better networks, share ideas and make connections
+https://www.gns3.com/ 
+
+√ DynamIPs
+Discover the Ultimate Convenience for Running Your Labs with a Comprehensive Solution.
+https://dynamips.store/
+
+√ VulnHub
+Provide materials that allows anyone to gain practical 'hands-on' experience in digital security, computer software & network administration
+vulnhub.com
+
+√ Damn Vulnerable Web Application (DVWA) by digininja (Robin Wood)
+Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is damn vulnerable
+https://github.com/digininja/DVWA
+
 49. https://jwljoy.medium.com/damn-vulnerable-applications-c4e286832147
 50. tenable/awesome-llm-cybersecurity-tools - A curated list of cybersecurity tools that leverage LLMs, by Tenable’s Olivia Fraser and Blake Kizer, across reverse engineering, network analysis, cloud security, and PoCs.
 51. tenable/EscalateGPT https://github.com/tenable/EscalateGPT An AI-powered tool for discovering privilege escalation opportunities in AWS IAM configurations, by Tenable. “In our testing against real-world AWS environments, we found that GPT4 managed to identify complex scenarios of privilege escalation based on non-trivial policies through multi-IAM accounts.”
