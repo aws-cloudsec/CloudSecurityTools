@@ -246,7 +246,7 @@ https://github.com/welldone-cloud/aws-summarize-account-activity
 Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
 https://github.com/iann0036/iamlive
 
-√  Awesome Damn Vulnerable Applications by Jewel Joy
+√ Awesome Damn Vulnerable Applications by Jewel Joy
         - Web Application : https://github.com/ethicalhack3r/DVWA
         - Word Press : https://github.com/vianasw/dvwps
         - Node JS : https://github.com/appsecco/dvna
@@ -283,6 +283,10 @@ https://github.com/iann0036/iamlive
         - PI : https://whitedome.com.au/re4son/sticky-fingers-dv-pi/
         - SS7 Network: https://www.blackhat.com/asia-17/arsenal.html#damn-vulnerable-ss7-network
         - VoIP : https://www.vulnhub.com/entry/hacklab-vulnvoip,40/
+
+√ Invictus-AWS
+Invictus-AWS is a python script that will help automatically enumerate and acquire relevant data from an AWS environment.
+https://github.com/invictus-ir/Invictus-AWS 
 
 
 
