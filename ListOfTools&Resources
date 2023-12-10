@@ -198,7 +198,6 @@ The Cymulate platform drives continuous threat exposure management programs and 
 https://cymulate.com/
 
 
-
 √ CloudFoxable by BishopFox
 An intentionally vulnerable AWS environment created specifically to showcase CloudFox’s capabilities and help you find latent attack paths more effectively.
 https://github.com/BishopFox/cloudfoxable/blob/main/README.md
@@ -221,7 +220,6 @@ Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is da
 https://github.com/digininja/DVWA
 
 
-
 √ awesome-llm-cybersecurity-tools by tenable
 A curated list of cybersecurity tools that leverage LLMs, by Tenable’s Olivia Fraser and Blake Kizer, across reverse engineering, network analysis, cloud security, and PoCs.
 https://github.com/tenable/awesome-llm-cybersecurity-tools
@@ -231,10 +229,22 @@ https://github.com/tenable/awesome-llm-cybersecurity-tools
 A powerful Python tool that leverages the power of OpenAI to analyze AWS IAM misconfigurations.
 https://github.com/tenable/EscalateGPT
 
-53. tenable/Burp-extension-for-GPT A Burp Suite extension that leverages OpenAI to analyze HTTP traffic and identify potential security concerns. “We tested some real-world scenarios and we found that GPT3.5 and GPT4 successfully identified XSS and misconfigured HTTP headers without requiring any additional fine-tuning.”
-54. BlueHound: https://github.com/zeronetworks/BlueHound
-55. aws-summarize-account-activity: Analyzes CloudTrail data of a given AWS account and generates a summary of recently active IAM principals, API calls they made and regions that were used. The summary is written to a JSON output file and can optionally be visualized as PNG files. https://github.com/welldone-cloud/aws-summarize-account-activity
-56. iamlive. Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy.  https://github.com/iann0036/iamlive
+√ Burp-extension-for-GPT by Tenable
+a powerful Burp Suite extension that leverages the power of OpenAI to analyze HTTP traffic and identify potential security concerns.
+https://github.com/tenable/Burp-extension-for-GPT/blob/master/README.md
+
+
+√ BlueHound by Zero Networks
+BlueHound is an open-source tool that helps blue teams pinpoint the security issues that actually matter. By combining information about user permissions, network access and unpatched vulnerabilities, BlueHound reveals the paths attackers would take if they were inside your network
+https://github.com/zeronetworks/BlueHound/blob/master/README.md
+
+√ aws-summarize-account-activity
+Analyzes CloudTrail data of a given AWS account and generates a summary of recently active IAM principals, API calls they made and regions that were used. The summary is written to a JSON output file and can optionally be visualized as PNG files
+https://github.com/welldone-cloud/aws-summarize-account-activity
+
+√ iamlive
+Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy
+https://github.com/iann0036/iamlive
 
 √  Awesome Damn Vulnerable Applications by Jewel Joy
         - Web Application : https://github.com/ethicalhack3r/DVWA
