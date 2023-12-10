@@ -2,109 +2,109 @@ List of Cloud & Cyber Security tool, resources & repos.
 Last Updated December 10, 2023.
 
 
-1. AWS URL Signer
+√ AWS URL Signer
 POC tool to create signed AWS API GET requests to bypass Guard Duty alerting of off-instance credential use via SSRF
 https://github.com/stephenbradshaw/aws_url_signer
 
 
-2. Product EOL- End of Life Tracker
+√ Product EOL- End of Life Tracker
 End-of-life (EOL) and support information is often hard to track, or very badly presented. endoflife.date documents EOL dates and support lifecycles for various products.
 https://endoflife.date/
 
-3. Repo for AWS CloudSec tools by Latio Tech
+√  Repo for AWS CloudSec tools by Latio Tech
 https://list.latio.tech/
 
 
-4. Arsenal of AWS security tools by Toni de la Fuente
+√ Arsenal of AWS security tools by Toni de la Fuente
 https://github.com/toniblyx/my-arsenal-of-aws-security-tools
 
-5. Cloud Security - Attacks Tools Lis
+√ Cloud Security - Attacks Tools Lis
 https://github.com/CyberSecurityUP/Cloud-Security-Attacks
 
-6. AwesomeRed Team Operations
+√ AwesomeRed Team Operations
 https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
 
-7. RedTeam CVE search
+√ RedTeam CVE search
 Comprehensive database for CVE exploits from across the internet
 https://cvexploits.io/
 
 
-8. AWS Skillsbuilder
+√ AWS Skillsbuilder
 https://explore.skillbuilder.aws/learn/signin
 
-9. Project TJ-JPT
+√ Project TJ-JPT
 PenTest (PT) tools, commands, and resources
 https://github.com/tjnull/TJ-JPT
 
 
-10. AWSome Pentesting Cheatsheet by pop3ret
+√ AWSome Pentesting Cheatsheet by pop3ret
 For pentesters to learn more about AWS misconfigurations and ways to abuse them.
 https://github.com/pop3ret/AWSome-Pentesting/blob/main/AWSome-Pentesting-Cheatsheet.md
 
-10. Workload Security Evaluator from Datadog
+√ Workload Security Evaluator from Datadog
 Provides tooling to simulate runtime attacks and test default runtime detections from Datadog Cloud Security Management.
 https://github.com/DataDog/workload-security-evaluator/blob/main/README.md
 
 
-11. Awesome Password Cracking 
+√ Awesome Password Cracking 
 This is a curated list of awesome tools, research, papers and other projects related to password cracking and password security by @n0kovo@infosec.exchange.
 https://github.com/n0kovo/awesome-password-cracking#readme
 
-13. John the Ripper
+√ John the Ripper
 John the Ripper is an Open Source password security auditing and password recovery tool available for many operating systems. John the Ripper jumbo supports hundreds of hash and cipher types, including for: user passwords of Unix flavors (Linux, *BSD, Solaris, AIX, QNX, etc.), macOS, Windows, "web apps" (e.g., WordPress), groupware (e.g., Notes/Domino), and database servers (SQL, LDAP, etc.); network traffic captures (Windows network authentication, WiFi WPA-PSK, etc.); encrypted private keys (SSH, GnuPG, cryptocurrency wallets, etc.), filesystems and disks (macOS .dmg files and "sparse bundles", Windows BitLocker, etc.), archives (ZIP, RAR, 7z), and document files (PDF, Microsoft Office's, etc.)
 https://www.openwall.com/john/
 
-14. Password cracking tool: Hashcat
+√ Password cracking tool: Hashcat
 Works with the CPU and GPU to provide a high-speed command-line password-cracking tool supporting many hash types.
 https://hashcat.net/hashcat/
 
 
-15. Password cracking tool: Ophcrack
+√ Password cracking tool: Ophcrack
 Ophcrack is a free Windows password cracker based on rainbow tables. It is a very efficient implementation of rainbow tables done by the inventors of the method. It comes with a Graphical User Interface and runs on multiple platforms.
 https://ophcrack.sourceforge.io/
 
 
-16. CISA Free Cybersecurity Services and Tools
+√ CISA Free Cybersecurity Services and Tools
 In addition to offering a range of no-cost CISA-provided cybersecurity services, CISA has compiled a list of free services and tools provided by private and public sector organizations across the cyber community.
 https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools
 
 
-17. SANS Cyber Security Tools
+√  SANS Cyber Security Tools
 SANS Instructors have built open source cyber security tools that support your work and help you implement better security.
 https://www.sans.org/tools/?focus-area=penetration-testing-red-teaming
 
 
-18. RED TEAM TOOL: Atomic Red Team by Canary
+√ RED TEAM TOOL: Atomic Red Team by Canary
 Atomic Red Team™ is a library of tests mapped to the MITRE ATT&CK® framework. Security teams can use Atomic Red Team to quickly, portably, and reproducibly test their environments.
 https://github.com/redcanaryco/atomic-red-team
 
-19. RED TEAM TOOL: Leonidas by F-Secure (Nick Jones)
+√ RED TEAM TOOL: Leonidas by F-Secure (Nick Jones)
 This is the repository containing Leonidas, a framework for executing attacker actions in the cloud. It provides a YAML-based format for defining cloud attacker tactics, techniques and procedures (TTPs) and their associated detection properties. 
 https://github.com/WithSecureLabs/leonidas
 
 
-20. RED TEAM TOOL: Pacu by Rhino Security Labs
+√ RED TEAM TOOL: Pacu by Rhino Security Labs
 Pacu is an open-source AWS exploitation framework, designed for offensive security testing against cloud environments. Created and maintained by Rhino Security Labs, Pacu allows penetration testers to exploit configuration flaws within an AWS account, using modules to easily expand its functionality.
 https://github.com/RhinoSecurityLabs/pacu/blob/master/README.md
 
-21: RED TEAM TOOL: CloudGoat by Rhino Security Labs
+√ RED TEAM TOOL: CloudGoat by Rhino Security Labs
 CloudGoat is Rhino Security Labs' "Vulnerable by Design" AWS deployment tool.
 https://github.com/RhinoSecurityLabs/cloudgoat
 
-22. RED TEAM TOOL: DataDog/stratus-red-team
+√ RED TEAM TOOL: DataDog/stratus-red-team
 Stratus Red Team is "Atomic Red Team™" for the cloud, allowing to emulate offensive attack techniques in a granular and self-contained manner.
 https://github.com/DataDog/stratus-red-team
 
-23. RED TEAM TOOL: Hacking the Cloud:
+√ RED TEAM TOOL: Hacking the Cloud:
 Hacking the cloud is an encyclopedia of the attacks/tactics/techniques that offensive security professionals can use on their next cloud exploitation adventure. The goal is to share this knowledge with the security community to better defend cloud native technologies.
 https://hackingthe.cloud/
 Eg. Enumerate AWS Account ID: https://hackingthe.cloud/aws/enumeration/account_id_from_s3_bucket/
 
-24. aws-list-resources. 
+√ aws-list-resources. 
 Uses the AWS Cloud Control API to list resources that are present in a given AWS account and region(s). Discovered resources are written to a JSON output file.
 https://github.com/welldone-cloud/aws-list-resources 
 
-25. https://maturitymodel.security.aws.dev/ by AWS. It has some great resourced for example: Building a Red Team (Attacker point of view) by AWS
+√ https://maturitymodel.security.aws.dev/ by AWS. It has some great resourced for example: Building a Red Team (Attacker point of view) by AWS
 https://maturitymodel.security.aws.dev/en/4.-optimized/red-team/ 
 Other Attack Simulation tools included are:
     - Amazon GuardDuty Tester (aws-samples)
@@ -122,19 +122,19 @@ Other Attack Simulation tools included are:
     - CyCognito
     - Cymulate
 
-26. Flightism
+√  Flightism
 flightsim is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. The tool performs tests to simulate DNS tunneling, DGA traffic, requests to known active C2 destinations, and other suspicious traffic patterns.
 https://github.com/alphasoc/flightsim/blob/master/README.md
 
-27. Suricata
+√ Suricata
 Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
 https://suricata.io/
 
-28. Amazon GuardDuty Tester by AWS Labs
+√ Amazon GuardDuty Tester by AWS Labs
 This repository contains scripts and guidance that can be used as a proof-of-concept to generate Amazon GuardDuty findings related to real AWS resources.
 https://github.com/awslabs/amazon-guardduty-tester/blob/master/README.md
 
-29. GuardDuty Runbook Generator by Aquia-Inc
+√ GuardDuty Runbook Generator by Aquia-Inc
 Create a runbook for all available GuardDuty finding types found on the GuardDuty docs website using the information documented for each finding.
 https://github.com/aquia-inc/aws-guardduty-runbook-generator/blob/main/README.md
 
@@ -143,21 +143,42 @@ https://github.com/aquia-inc/aws-guardduty-runbook-generator/blob/main/README.md
 
 
 
-30. RED TEAM TOOL: AWS CloudSaga by AWS Labs
+√ RED TEAM TOOL: AWS CloudSaga by AWS Labs
 AWS CloudSaga is for customers to test security controls and alerts within their Amazon Web Services (AWS) environment, using generated alerts based on security events seen by the AWS Customer Incident Response Team (CIRT).
 https://github.com/awslabs/aws-cloudsaga/blob/main/README.md
 
 
-31. Pacu Open Source AWS Exploitation Framework (Open Source by Rhino Security)
-https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/
+
+√ Stratus Red Team (Open Source, by Datadog)
+Stratus Red Team is "Atomic Red Team™" for the cloud, allowing to emulate offensive attack techniques in a granular and self-contained manner.
+https://github.com/DataDog/stratus-red-team
 
 
-32. Stratus Red Team (Open Source, by Datadog) https://github.com/DataDog/stratus-red-team
-33. Guardicore Infection Monkey (Open Source, integrated with AWS Security Hub). https://www.akamai.com/infectionmonkey
-34. F-Secure Leonidas https://github.com/WithSecureLabs/leonidas
-35. XM Cyber https://xmcyber.com/
-36. AttackIQ https://www.attackiq.com/
-37. Randori https://www.randori.com/
+√ Guardicore Infection Monkey (Open Source, integrated with AWS Security Hub) by Akamai
+Simulate, Validate, and Mitigate with the Infection Monkey. Continuously test your network security and use the insights to make informed security decisions based on real data, not speculations.
+https://www.akamai.com/infectionmonkey
+
+
+√ Leonidas by WithSecureLabs
+This is the repository containing Leonidas, a framework for executing attacker actions in the cloud. It provides a YAML-based format for defining cloud attacker tactics, techniques and procedures (TTPs) and their associated detection properties.
+https://github.com/WithSecureLabs/leonidas
+
+
+√ XM Cyber
+Fix less. Prevent more. Get the attacker’s perspective of your on-prem and cloud networks 24/7.
+https://xmcyber.com/
+
+
+√ AttackIQ
+Meet AttackIQ Enterprise, Ready!, and Flex. Fully curated MITRE ATT&CK testing experiences just got simple.
+https://www.attackiq.com/
+
+
+√ IBM Security Randori Recon
+An attack surface management solution designed to uncover your external exposures through the lens of an adversary
+https://www.randori.com/
+
+
 38. Prelude (based on open source CALDERA from MITRE) https://www.preludesecurity.com/?prelude.org//Query
 39. Scythe https://scythe.io/
 40. Safebreach https://www.safebreach.com/
