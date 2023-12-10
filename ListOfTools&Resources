@@ -1,5 +1,5 @@
-List of Cloud & Cyber Security tool, resources & repos.
-Last Updated December 10, 2023.
+List of Cloud & Cyber Security tool, resources & repos maintained by AWS Cloud Security Weekly Newsletter (aws-cloudsec.com) 
+List Last Updated on December 10, 2023.
 
 
 √ AWS URL Signer
@@ -221,6 +221,8 @@ Damn Vulnerable Web Application (DVWA) is a PHP/MySQL web application that is da
 https://github.com/digininja/DVWA
 
 49. https://jwljoy.medium.com/damn-vulnerable-applications-c4e286832147
+
+
 50. tenable/awesome-llm-cybersecurity-tools - A curated list of cybersecurity tools that leverage LLMs, by Tenable’s Olivia Fraser and Blake Kizer, across reverse engineering, network analysis, cloud security, and PoCs.
 51. tenable/EscalateGPT https://github.com/tenable/EscalateGPT An AI-powered tool for discovering privilege escalation opportunities in AWS IAM configurations, by Tenable. “In our testing against real-world AWS environments, we found that GPT4 managed to identify complex scenarios of privilege escalation based on non-trivial policies through multi-IAM accounts.”
 53. tenable/Burp-extension-for-GPT A Burp Suite extension that leverages OpenAI to analyze HTTP traffic and identify potential security concerns. “We tested some real-world scenarios and we found that GPT3.5 and GPT4 successfully identified XSS and misconfigured HTTP headers without requiring any additional fine-tuning.”
@@ -232,5 +234,5 @@ https://github.com/digininja/DVWA
 
 
 
-- Maintained by AWS Cloud Security Weekly Newsletter (aws-cloudsec.com) 
+
 
