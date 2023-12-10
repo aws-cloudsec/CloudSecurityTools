@@ -1,13 +1,13 @@
 1. AWS URL Signer: POC tool to create signed AWS API GET requests to bypass Guard Duty alerting of off-instance credential use via SSRF https://github.com/stephenbradshaw/aws_url_signer
-2. Product EOL- End of Life Tracker: https://endoflife.date/
+2. Product EOL- End of Life Tracker: End-of-life (EOL) and support information is often hard to track, or very badly presented. endoflife.date documents EOL dates and support lifecycles for various products. https://endoflife.date/
 3. Repo for other AWS CloudSec tools: https://list.latio.tech/
 4. Arsenal of AWS security tools: https://github.com/toniblyx/my-arsenal-of-aws-security-tools
-5. Cloud Security - Attacks Tools List: https://github.com/CyberSecurityUP/Cloud-Security-Attacks
+5. RED TEAM TOOL: Cloud Security - Attacks Tools List: https://github.com/CyberSecurityUP/Cloud-Security-Attacks
 6. AwesomeRed Team Operations - https://github.com/CyberSecurityUP/Awesome-Red-Team-Operations
-7. RedTeam CVE search https://cvexploits.io/
+7. RedTeam CVE search - Your comprehensive database for CVE exploits from across the internet. https://cvexploits.io/
 8. AWS Skillsbuilder https://explore.skillbuilder.aws/learn/signin
 9. PenTest1: https://github.com/tjnull/TJ-JPT
-10. PenTest2: https://github.com/pop3ret/AWSome-Pentesting/blob/main/AWSome-Pentesting-Cheatsheet.md
+10. PenTest2: AWSome Pentesting Cheatsheet. https://github.com/pop3ret/AWSome-Pentesting/blob/main/AWSome-Pentesting-Cheatsheet.md
 10. Password cracking tool: https://www.bleepingcomputer.com/news/security/top-5-password-cracking-techniques-used-by-hackers/
 11. Password cracking tool: https://github.com/n0kovo/awesome-password-cracking#readme
 13. Password cracking tool: John the Ripper - Supports hundreds of hash types across many applications and is available on multiple platforms. John the Ripper password cracker (openwall.com)
@@ -50,7 +50,7 @@
 50. tenable/awesome-llm-cybersecurity-tools - A curated list of cybersecurity tools that leverage LLMs, by Tenable’s Olivia Fraser and Blake Kizer, across reverse engineering, network analysis, cloud security, and PoCs.
 51. tenable/EscalateGPT https://github.com/tenable/EscalateGPT An AI-powered tool for discovering privilege escalation opportunities in AWS IAM configurations, by Tenable. “In our testing against real-world AWS environments, we found that GPT4 managed to identify complex scenarios of privilege escalation based on non-trivial policies through multi-IAM accounts.”
 53. tenable/Burp-extension-for-GPT A Burp Suite extension that leverages OpenAI to analyze HTTP traffic and identify potential security concerns. “We tested some real-world scenarios and we found that GPT3.5 and GPT4 successfully identified XSS and misconfigured HTTP headers without requiring any additional fine-tuning.”
-
+54. BlueHound: https://github.com/zeronetworks/BlueHound
 
 - Maintained by AWS Cloud Security Weekly Newsletter (aws-cloudsec.com) 
 
