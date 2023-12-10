@@ -126,11 +126,32 @@ Other Attack Simulation tools included are:
 flightsim is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. The tool performs tests to simulate DNS tunneling, DGA traffic, requests to known active C2 destinations, and other suspicious traffic patterns.
 https://github.com/alphasoc/flightsim/blob/master/README.md
 
-27. Suricata: https://suricata.io/ - Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
-28. Amazon GuardDuty Tester by AWS
-29. RED TEAM TOOL: Amazon GuardDuty Tester- https://github.com/awslabs/amazon-guardduty-tester Amazon GuardDuty Tester is helpful to trigger GuardDuty findings. However, it is tightly coupled with GuardDuty and is a product-specific tool, even within the AWS ecosystem. If GuardDuty doesn't detect an attack technique, you won't find it in here.
-30. RED TEAM TOOL: AWS CloudSaga (awslabs) https://github.com/awslabs/aws-cloudsaga AWS CloudSaga has a few simulation scenarios (five at the time of writing). Some of them are more focused around identifying vulnerable resources in your account (such as imds_reveal listing your EC2 instances without IMDSv2 enforced), while others are designed to simulate attacker behavior. The attacker behavior implemented by AWS Cloud Saga emulates several stages of the attack lifecycle, while Stratus Red Team purposely attempts to stay as granular as possible (see: Philosophy). As much as possible, Stratus Red Team techniques also reference real-world incidents or breaches.
-31. Pacu Open Source AWS Exploitation Framework (Open Source by Rhino Security) https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/
+27. Suricata
+Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
+https://suricata.io/
+
+28. Amazon GuardDuty Tester by AWS Labs
+This repository contains scripts and guidance that can be used as a proof-of-concept to generate Amazon GuardDuty findings related to real AWS resources.
+https://github.com/awslabs/amazon-guardduty-tester/blob/master/README.md
+
+29. GuardDuty Runbook Generator by Aquia-Inc
+Create a runbook for all available GuardDuty finding types found on the GuardDuty docs website using the information documented for each finding.
+https://github.com/aquia-inc/aws-guardduty-runbook-generator/blob/main/README.md
+
+
+
+
+
+
+30. RED TEAM TOOL: AWS CloudSaga by AWS Labs
+AWS CloudSaga is for customers to test security controls and alerts within their Amazon Web Services (AWS) environment, using generated alerts based on security events seen by the AWS Customer Incident Response Team (CIRT).
+https://github.com/awslabs/aws-cloudsaga/blob/main/README.md
+
+
+31. Pacu Open Source AWS Exploitation Framework (Open Source by Rhino Security)
+https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/
+
+
 32. Stratus Red Team (Open Source, by Datadog) https://github.com/DataDog/stratus-red-team
 33. Guardicore Infection Monkey (Open Source, integrated with AWS Security Hub). https://www.akamai.com/infectionmonkey
 34. F-Secure Leonidas https://github.com/WithSecureLabs/leonidas
@@ -155,7 +176,7 @@ https://github.com/alphasoc/flightsim/blob/master/README.md
 54. BlueHound: https://github.com/zeronetworks/BlueHound
 55. aws-summarize-account-activity: Analyzes CloudTrail data of a given AWS account and generates a summary of recently active IAM principals, API calls they made and regions that were used. The summary is written to a JSON output file and can optionally be visualized as PNG files. https://github.com/welldone-cloud/aws-summarize-account-activity
 56. iamlive. Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy.  https://github.com/iann0036/iamlive
-57. GuardDuty Runbook Generator. Create a runbook for all available GuardDuty finding types found on the GuardDuty docs website using the information documented for each finding. https://github.com/aquia-inc/aws-guardduty-runbook-generator
+
 
 
 
