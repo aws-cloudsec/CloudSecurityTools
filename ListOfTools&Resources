@@ -54,7 +54,8 @@
 55. aws-summarize-account-activity: Analyzes CloudTrail data of a given AWS account and generates a summary of recently active IAM principals, API calls they made and regions that were used. The summary is written to a JSON output file and can optionally be visualized as PNG files. https://github.com/welldone-cloud/aws-summarize-account-activity
 56. iamlive. Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy.  https://github.com/iann0036/iamlive
 57. GuardDuty Runbook Generator. Create a runbook for all available GuardDuty finding types found on the GuardDuty docs website using the information documented for each finding. https://github.com/aquia-inc/aws-guardduty-runbook-generator
-58. aws-list-resources. Uses the AWS Cloud Control API to list resources that are present in a given AWS account and region(s). Discovered resources are written to a JSON output file.. https://github.com/welldone-cloud/aws-list-resources
+58. aws-list-resources. Uses the AWS Cloud Control API to list resources that are present in a given AWS account and region(s). Discovered resources are written to a JSON output file.. https://github.com/welldone-cloud/aws-list-resources. 
+59. Workload Security Evaluator- provides tooling to simulate runtime attacks and test default runtime detections from Datadog Cloud Security Management. https://github.com/DataDog/workload-security-evaluator?utm_source=cloudseclist.com&utm_medium=referral&utm_campaign=CloudSecList-issue-202
 
 
 - Maintained by AWS Cloud Security Weekly Newsletter (aws-cloudsec.com) 
