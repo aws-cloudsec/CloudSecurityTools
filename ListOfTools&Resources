@@ -26,8 +26,8 @@
 26. Flightism: https://github.com/alphasoc/flightsim - flightsim is a lightweight utility used to generate malicious network traffic and help security teams to evaluate security controls and network visibility. The tool performs tests to simulate DNS tunneling, DGA traffic, requests to known active C2 destinations, and other suspicious traffic patterns.
 27. Suricata: https://suricata.io/ - Suricata is a high performance, open source network analysis and threat detection software used by most private and public organizations, and embedded by major vendors to protect their assets.
 28. Amazon GuardDuty Tester by AWS
-29. ED TEAM TOOL: Amazon GuardDuty Tester- https://github.com/awslabs/amazon-guardduty-tester Amazon GuardDuty Tester is helpful to trigger GuardDuty findings. However, it is tightly coupled with GuardDuty and is a product-specific tool, even within the AWS ecosystem. If GuardDuty doesn't detect an attack technique, you won't find it in here.
-30. ED TEAM TOOL: AWS CloudSaga (awslabs) https://github.com/awslabs/aws-cloudsaga AWS CloudSaga has a few simulation scenarios (five at the time of writing). Some of them are more focused around identifying vulnerable resources in your account (such as imds_reveal listing your EC2 instances without IMDSv2 enforced), while others are designed to simulate attacker behavior. The attacker behavior implemented by AWS Cloud Saga emulates several stages of the attack lifecycle, while Stratus Red Team purposely attempts to stay as granular as possible (see: Philosophy). As much as possible, Stratus Red Team techniques also reference real-world incidents or breaches.
+29. RED TEAM TOOL: Amazon GuardDuty Tester- https://github.com/awslabs/amazon-guardduty-tester Amazon GuardDuty Tester is helpful to trigger GuardDuty findings. However, it is tightly coupled with GuardDuty and is a product-specific tool, even within the AWS ecosystem. If GuardDuty doesn't detect an attack technique, you won't find it in here.
+30. RED TEAM TOOL: AWS CloudSaga (awslabs) https://github.com/awslabs/aws-cloudsaga AWS CloudSaga has a few simulation scenarios (five at the time of writing). Some of them are more focused around identifying vulnerable resources in your account (such as imds_reveal listing your EC2 instances without IMDSv2 enforced), while others are designed to simulate attacker behavior. The attacker behavior implemented by AWS Cloud Saga emulates several stages of the attack lifecycle, while Stratus Red Team purposely attempts to stay as granular as possible (see: Philosophy). As much as possible, Stratus Red Team techniques also reference real-world incidents or breaches.
 31. Pacu Open Source AWS Exploitation Framework (Open Source by Rhino Security) https://rhinosecuritylabs.com/aws/pacu-open-source-aws-exploitation-framework/
 32. Stratus Red Team (Open Source, by Datadog) https://github.com/DataDog/stratus-red-team
 33. Guardicore Infection Monkey (Open Source, integrated with AWS Security Hub). https://www.akamai.com/infectionmonkey
@@ -42,15 +42,20 @@
 42. Cymulate https://cymulate.com/
 43. https://github.com/WithSecureLabs/leonidas Leonidas 
 44. https://github.com/BishopFox/cloudfoxable
-45. gns3 - network emulation
-46. https://dynamips.store/
-47. vulnhub.com
+45. Network Emulation - https://www.gns3.com/ 
+46. DynamIPs Discover the Ultimate Convenience for Running Your Labs with a Comprehensive Solution.. https://dynamips.store/
+47. VulnHub: Provide materials that allows anyone to gain practical 'hands-on' experience in digital security, computer software & network administration. vulnhub.com
 48. Damn Vulnerable: https://github.com/digininja/DVWA
 49. https://jwljoy.medium.com/damn-vulnerable-applications-c4e286832147
 50. tenable/awesome-llm-cybersecurity-tools - A curated list of cybersecurity tools that leverage LLMs, by Tenable’s Olivia Fraser and Blake Kizer, across reverse engineering, network analysis, cloud security, and PoCs.
 51. tenable/EscalateGPT https://github.com/tenable/EscalateGPT An AI-powered tool for discovering privilege escalation opportunities in AWS IAM configurations, by Tenable. “In our testing against real-world AWS environments, we found that GPT4 managed to identify complex scenarios of privilege escalation based on non-trivial policies through multi-IAM accounts.”
 53. tenable/Burp-extension-for-GPT A Burp Suite extension that leverages OpenAI to analyze HTTP traffic and identify potential security concerns. “We tested some real-world scenarios and we found that GPT3.5 and GPT4 successfully identified XSS and misconfigured HTTP headers without requiring any additional fine-tuning.”
 54. BlueHound: https://github.com/zeronetworks/BlueHound
+55. aws-summarize-account-activity: Analyzes CloudTrail data of a given AWS account and generates a summary of recently active IAM principals, API calls they made and regions that were used. The summary is written to a JSON output file and can optionally be visualized as PNG files. https://github.com/welldone-cloud/aws-summarize-account-activity
+56. iamlive. Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy.  https://github.com/iann0036/iamlive
+57. GuardDuty Runbook Generator. Create a runbook for all available GuardDuty finding types found on the GuardDuty docs website using the information documented for each finding. https://github.com/aquia-inc/aws-guardduty-runbook-generator
+58. aws-list-resources. Uses the AWS Cloud Control API to list resources that are present in a given AWS account and region(s). Discovered resources are written to a JSON output file.. https://github.com/welldone-cloud/aws-list-resources
+
 
 - Maintained by AWS Cloud Security Weekly Newsletter (aws-cloudsec.com) 
 
