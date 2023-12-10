@@ -230,8 +230,43 @@ https://github.com/digininja/DVWA
 55. aws-summarize-account-activity: Analyzes CloudTrail data of a given AWS account and generates a summary of recently active IAM principals, API calls they made and regions that were used. The summary is written to a JSON output file and can optionally be visualized as PNG files. https://github.com/welldone-cloud/aws-summarize-account-activity
 56. iamlive. Generate an IAM policy from AWS, Azure, or Google Cloud (GCP) calls using client-side monitoring (CSM) or embedded proxy.  https://github.com/iann0036/iamlive
 
-
-
+Awesome Damn Vulnerable Applications by Jewel Joy
+        - Web Application : https://github.com/ethicalhack3r/DVWA
+        - Word Press : https://github.com/vianasw/dvwps
+        - Node JS : https://github.com/appsecco/dvna
+        - Web Sockets : https://hub.docker.com/r/tssoffsec/dvws/
+        - Python : https://github.com/anxolerd/dvpwa
+        - Ruby on Rails : https://github.com/guilleiguaran/dvra
+        - Ruby on Rails : https://git.logicalhacking.com/BrowserSecurity/DVGM
+        - GraphQL : https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application
+        - Web Service : https://github.com/snoopysecurity/dvws
+        - API : https://github.com/payatu/Tiredful-API/
+        - C# API Only : https://github.com/appsecco/dvcsharp-api
+        - Source Code : https://github.com/h4x0r101/Damn-Vulnerable-Source-Code
+        - Thick Client Application : https://github.com/secvulture/dvta
+        - Java EE : https://github.com/appsecco/dvja
+        - iOS Swift : https://github.com/prateek147/DVIA-v2
+        - iOS: https://github.com/prateek147/DVIA
+        - Android : https://github.com/payatu/diva-android
+        - Hybrid Mobile Application : https://github.com/logicalhacking/DVHMA
+        - Crypto Wallet : https://gitlab.com/badbounty/dvcw
+        - Wallet : https://github.com/genecyber/Damn-Vulnerable-Wallet-App
+        - Block Chain : https://github.com/subashsn/dvba
+        - Linux : https://www.vulnhub.com/series/damn-vulnerable-linux-dvl,1/
+        - Windows : https://sourceforge.net/projects/dawn-vulnerability-windows/
+        - Device Driver : https://github.com/pwk4m1/Damn_Vulnerable_Device_Driver
+        - Cloud Application : https://github.com/m6a-UdS/dvca
+        - Cloud App (AWS) : https://github.com/RhinoSecurityLabs/cloudgoat
+        - Function-as-a-service (AWS Lambda) : https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service
+        - Serverless Application : https://github.com/OWASP/DVSA
+        - Functions as a Service : https://github.com/we45/DVFaaS-Damn-Vulnerable-Functions-as-a-Service
+        - IoT : https://github.com/Vulcainreo/DVID
+        - Router : https://github.com/praetorian-code/DVRF
+        - Safe : https://insinuator.net/2016/01/damn-vulnerable-safe/
+        - SCADA : https://www.slideshare.net/phdays/damn-vulnerable-chemical-process
+        - PI : https://whitedome.com.au/re4son/sticky-fingers-dv-pi/
+        - SS7 Network: https://www.blackhat.com/asia-17/arsenal.html#damn-vulnerable-ss7-network
+        - VoIP : https://www.vulnhub.com/entry/hacklab-vulnvoip,40/
 
 
 
