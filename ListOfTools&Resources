@@ -411,6 +411,19 @@ https://github.com/OWASP/wrongsecrets
 Organizations can have thousands of lines of code that are stored in Lambda on AWS. This application was built to help reduce the amount of time it takes to review that code.  
 https://github.com/StateFarmIns/LambdaLooter
 
+√ Awesome Detection Rules 
+This is a collection of threat detection rules / rules engines
+https://github.com/jatrost/awesome-detection-rules
+
+√ AWS Organizations Alternate Contact Manager
+Programmatically manage alternate contacts in member accounts of an AWS Organizations
+https://github.com/aws-samples/aws-organizations-alternate-contact-manager 
+
+√ aws-cost-cli
+CLI tool to perform cost analysis on your AWS account with Slack integration
+https://github.com/kamranahmedse/aws-cost-cli
+
+√ 
 
 
 
@@ -419,3 +432,12 @@ https://github.com/StateFarmIns/LambdaLooter
 
 
 
+
+
+
+
+
+
+
+
+ 
