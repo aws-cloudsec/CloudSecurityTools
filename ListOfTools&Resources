@@ -344,6 +344,28 @@ https://github.com/tclahr/uac
 This repo provides a code-less solution to aggregating AWS CloudWatch log subscriptions across multiple AWS accounts and regions.
 https://github.com/aidansteele/centralized-logs
 
+√ Secrets Patterns Database 
+The largest open-source database for detecting secrets, API keys, passwords, tokens, and more. Use secrets-patterns-db to feed your secret scanning engine with regex patterns for identifying secrets.
+https://github.com/mazen160/secrets-patterns-db
+
+√ terraform-aws-session-manager-settings
+This module creates an SSM document that stores preferences for AWS Systems Manager Session Manager.
+https://github.com/gazoakley/terraform-aws-session-manager-settings
+
+√ CVSS v3 Base Score Calculator
+https://cvss.js.org/cvssjs/
+
+√ awesome-service-control-policies
+Listing of resources for example AWS Service Control Policies (SCPs)
+https://github.com/houey/awesome-service-control-policies 
+
+√ Prowler
+An Open Source security tool to perform AWS, GCP and Azure security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
+https://github.com/prowler-cloud/prowler
+
+
+
+
 
 
 
