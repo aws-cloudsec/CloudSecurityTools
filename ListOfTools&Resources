@@ -324,5 +324,15 @@ https://endgame.readthedocs.io/en/latest/
 Cybersecurity upskilling platform. Hack The Box gives individuals, businesses and universities the tools they need to continuously improve their cybersecurity capabilities — all in one place.
 https://www.hackthebox.com/
 
+√ Matano
+Matano Open Source Security data lake is an open source cloud-native security data lake, built for security teams on AWS.
+https://github.com/matanolabs/matano
+
+√ Netflix Repokid
+Repokid uses Access Advisor provided by Aardvark to remove permissions granting access to unused services from the inline policies of IAM roles in an AWS account.
+https://github.com/Netflix/repokid 
+
+
+
 
 
