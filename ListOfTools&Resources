@@ -366,6 +366,20 @@ https://github.com/houey/awesome-service-control-policies
 An Open Source security tool to perform AWS, GCP and Azure security best practices assessments, audits, incident response, continuous monitoring, hardening and forensics readiness.
 https://github.com/prowler-cloud/prowler
 
+√ AWS Architecture Diagrams
+Official AWS Icon set: https://aws.amazon.com/architecture/icons/
+	•	CloudCraft: https://www.cloudcraft.co/
+	•	ExcaliDraw: https://excalidraw.com/
+	•	Diagrams.net: https://www.diagrams.net/
+	•	LucidChart: https://www.lucidchart.com/
+	•	Whiteboard: substitute tldraw: https://www.tldraw.com/
+	•	Mermaid: https://mermaid.js.org/ 
+	•	Python diagrams library: https://pypi.org/project/diagrams/
+	•	Kroki URL-based diagram renderer: https://kroki.io/
+	•	cfn-diagram by Lars Jacobssen: https://github.com/ljacobsson/cfn-diagram
+	•	cdk-dia by Tom Roshko: https://github.com/pistazie/cdk-dia
+	•	AWS Application Composer https://aws.amazon.com/application-composer/
+
 
 
 
