@@ -67,6 +67,9 @@ https://ophcrack.sourceforge.io/
 √ CISA Free Cybersecurity Services and Tools
 In addition to offering a range of no-cost CISA-provided cybersecurity services, CISA has compiled a list of free services and tools provided by private and public sector organizations across the cyber community.
 https://www.cisa.gov/resources-tools/resources/free-cybersecurity-services-and-tools
+https://github.com/cisagov/cset/releases The Cyber Security Evaluation Too
+https://github.com/cisagov/Decider/
+https://github.com/JPCERTCC/MemoryForensic-on-Cloud - developed by JPCERT/CC, is a tool for building a memory forensic environment on Amazon Web Services (AWS). This tool enables Windows operating system memory image analysis on AWS using Volatility 3.
 
 
 √  SANS Cyber Security Tools
