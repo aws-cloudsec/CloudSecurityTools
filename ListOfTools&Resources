@@ -1,6 +1,8 @@
 List of Cloud & Cyber Security tool, resources & repos maintained by AWS Cloud Security Weekly Newsletter (aws-cloudsec.com) 
 
 
+√ AWS Security Tools
+https://aws.amazon.com/products/security/ 
 
 √ AWS URL Signer
 POC tool to create signed AWS API GET requests to bypass Guard Duty alerting of off-instance credential use via SSRF
