@@ -395,6 +395,24 @@ https://www.zotero.org/groups/2507373/cloudsecurity/collections/FLVJ8TXF/item-li
 A curated list of resources dedicated to reinforcement learning applied to cyber security. Note that the list includes only work that uses reinforcement learning, general machine learning methods applied to cyber security are not included in this list.
 https://github.com/Limmen/awesome-rl-for-cybersecurity 
 
+√ SSM Helper by Disney
+Helpers to manage you systems with AWS Systems Manager suite of management tools.
+https://github.com/disneystreaming/ssm-helpers
+
+√ Orca Security IAM AWS Policy Evaluator (APE)
+APE takes all of your AWS IAM policies attached to a User, Group, or Role object, and presents you with a single policy, summarizing all of their actual permissions. Taking into account permissions, denials, inherited permissions and permission boundaries!
+https://github.com/orcasecurity/orca-toolbox/tree/main/iam-ape
+
+√ OWASP WrongSecrets
+Hame packed with real life examples of how to not store secrets in your software. 
+https://github.com/OWASP/wrongsecrets
+
+√ Lambda Looter by StateFarm
+Organizations can have thousands of lines of code that are stored in Lambda on AWS. This application was built to help reduce the amount of time it takes to review that code.  
+https://github.com/StateFarmIns/LambdaLooter
+
+
+
 
 
 
