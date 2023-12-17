@@ -381,6 +381,15 @@ Official AWS Icon set: https://aws.amazon.com/architecture/icons/
 	•	AWS Application Composer https://aws.amazon.com/application-composer/
 
 
+√ Static Website CLI
+This CLI tool makes it easy to deploy a static website to AWS. It builds and hosts the website, sets up a CDN and DNS, and provisions an SSL certificate.
+https://github.com/awslabs/staticwebsite-cli
+
+√ Cloud Security Resources by Nick Jones
+https://www.nojones.net/cloud-security-resources
+
+√ ZoTero CloudSec collections
+https://www.zotero.org/groups/2507373/cloudsecurity/collections/FLVJ8TXF/item-list 
 
 
 
