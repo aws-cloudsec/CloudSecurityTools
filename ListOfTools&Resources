@@ -203,9 +203,10 @@ The Cymulate platform drives continuous threat exposure management programs and 
 https://cymulate.com/
 
 
-√ CloudFoxable by BishopFox
+√ CloudFoxable and IAM-Vulnerable by BishopFox
 An intentionally vulnerable AWS environment created specifically to showcase CloudFox’s capabilities and help you find latent attack paths more effectively.
 https://github.com/BishopFox/cloudfoxable/blob/main/README.md
+https://github.com/BishopFox/iam-vulnerable 
 
 
 √ GNS3
