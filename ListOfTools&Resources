@@ -340,6 +340,10 @@ https://forensicate.cloud/aws/
 UAC is a Live Response collection script for Incident Response that makes use of native binaries and tools to automate the collection of AIX, Android, ESXi, FreeBSD, Linux, macOS, NetBSD, NetScaler, OpenBSD and Solaris systems artifacts. I
 https://github.com/tclahr/uac 
 
+√ Centralized AWS CloudWatch Logs aggregation by Aidan Steele
+This repo provides a code-less solution to aggregating AWS CloudWatch log subscriptions across multiple AWS accounts and regions.
+https://github.com/aidansteele/centralized-logs
+
 
 
 
